@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #323232;
+  color: white;
+  font-size: 32px;
+}
+.specialstyleclass {
+  font-size: 60px;
+  color: green;
+}
